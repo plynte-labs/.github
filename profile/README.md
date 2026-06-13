@@ -1,16 +1,40 @@
-# Plynte Labs 🌿🪴💦
+# Plynte Labs ??
 
-An open-source software laboratory dedicated to engineering high-performance productivity tooling and localized AI-driven audio infrastructure, tools for artist and streamers under the MIT license.
+**Open-source tools for local-first creative and AI-assisted workflows.**
 
-## Core Ecosystem - To be released...
+Plynte Labs builds high-performance productivity tools and local AI audio infrastructure for artists, streamers, and builders. The focus is simple: useful software that runs close to the user, avoids unnecessary cloud dependency, and stays understandable enough for people to learn from it.
 
-* [X] **[brick.draw](https://github.com/plynte-labs/brick-draw)**: An interactive, low-latency drawing canvas optimizing client-side state management and canvas rendering performance.
-      <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e169cb5a-32a2-47ea-b8c6-6a5725ec014b" />
-* [X] **[LiveAudio](https://github.com/plynte-labs/LiveAudio)**: Real-time audio ingestion using open-weight models (Whisper) and routing pipelines designed for creator environments and minimal latency budgets
-      <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/12069ac2-c753-412f-a2ed-c5bdf60b86dd" />
-* [ ] **[OpenCohost](https://github.com/plynte-labs/OpenCohost)**: Local audio infrastructure orchestrating open-weight models (Ollama/QwenTTS) with a focus on hardware acceleration and stream processing.
-      <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7cae2a8f-6586-49c1-8d07-614a371bcb19" />
+**Herramientas open-source para flujos creativos local-first e IA local.**
 
-## Engineering Standards
+Plynte Labs construye herramientas de productividad de alto rendimiento e infraestructura de audio local impulsada por IA para artistas, streamers y builders. El foco es simple: software ?til, cercano al usuario, sin dependencia innecesaria de la nube y suficientemente claro para que otros puedan aprender de ?l.
 
-All repositories under Plynte Labs strictly adhere to automated continuous integration pipelines (linting, type-checking, and production build verifications), enforced branch protection rules, and semantic versioning.
+## Ecosystem
+
+| Project | Status | What it does |
+|---------|--------|--------------|
+| [Brick Draw](https://github.com/plynte-labs/brick-draw) | Live | Lightweight desktop drawing canvas for creative workflows. |
+| [LiveAudio](https://github.com/plynte-labs/LiveAudio) | Live | Local real-time ASR subtitles powered by Whisper with OBS/WebSocket integration. |
+| [OpenCohost](https://github.com/plynte-labs/OpenCohost) | Coming soon | Local voice assistant infrastructure for streamer workflows. |
+
+## Engineering baseline
+
+| Area | Standard |
+|------|----------|
+| License | Public open-source projects use MIT unless a repository says otherwise. |
+| Branches | Use each repository's configured default branch; avoid renames without clear value. |
+| CI | Release-ready repositories should run security checks before lint/build/test. |
+| Contributions | Small, focused pull requests with Conventional Commits. |
+| Documentation | README, contributing, security, support, and changelog should exist before a project is promoted. |
+| Language | Public organization docs are bilingual: English and Spanish. |
+
+## Current focus
+
+- Strengthen the organization-wide contribution and security defaults.
+- Keep live repositories reproducible through CI and release checks.
+- Grow the ecosystem without hiding tradeoffs or overpromising maturity.
+
+## Learn and contribute
+
+Start with the repository that matches your interest, read its README, and open a focused issue or pull request. If you are unsure, open a question with context and the maintainers will route it.
+
+Comienza por el repositorio que coincida con tu inter?s, lee su README y abre un issue o pull request enfocado. Si no tienes seguridad sobre d?nde empezar, abre una pregunta con contexto y el equipo de mantenimiento la orientar?.
