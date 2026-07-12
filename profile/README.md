@@ -18,7 +18,7 @@ Plynte Labs construye herramientas de productividad de alto rendimiento e infrae
 
 <img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/63bcb644-1bc4-4d55-b832-e635efb71bb8" />
 
-> Franguh: Yes I draw this LOL.
+> Franguh: Yes I draw this LOL, I forgot how much I enjoyed drawing.
 
 ### LiveAudio
 
