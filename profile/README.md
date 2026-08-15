@@ -32,12 +32,12 @@ Plynte Labs construye herramientas de productividad de alto rendimiento e infrae
 
 | Project | Status | What it does |
 |---------|--------|--------------|
-| [OpenCohost](https://github.com/plynte-labs/OpenCohost) | Coming soon | Local voice assistant infrastructure for streamer workflows. |
+| [OpenCohost](https://github.com/plynte-labs/OpenCohost) | Live | Local voice assistant infrastructure for streamer workflows. |
 
-#### Opencohost CustomTkinter UI (Most stable - **Finished Development, not published...**)
+#### Opencohost CustomTkinter UI (Legacy | deprecated - **Finished Development, published...**)
 <img width="1916" height="987" alt="image" src="https://github.com/user-attachments/assets/9acbb30a-2e76-4006-9afb-41b496ac4483" />
 
-#### Opencohost Tauri UI (Experimental - **In Development**)
+#### Opencohost Tauri UI (Stable - **In Development**)
 <img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/7dab5fd7-6577-46c0-8b65-878300817c14" />
 <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/9d250713-60a9-4d80-92b9-c05c3c2be89c" />
 
