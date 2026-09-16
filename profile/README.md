@@ -8,7 +8,7 @@ Plynte Labs builds high-performance productivity tools and local AI audio infras
 
 **Herramientas open-source para flujos creativos local-first e IA local.**
 
-Plynte Labs construye herramientas de productividad de alto rendimiento e infraestructura de audio local impulsada por IA para artistas, streamers y builders. El foco es simple: software ?til, cercano al usuario, sin dependencia innecesaria de la nube y suficientemente claro para que otros puedan aprender de ?l.
+Plynte Labs construye herramientas de productividad de alto rendimiento e infraestructura de audio local impulsada por IA para artistas, streamers y builders. El foco es simple: software útil, cercano al usuario, sin dependencia innecesaria de la nube y suficientemente claro para que otros puedan aprender de él.
 
 ### Brick-draw
 
@@ -60,6 +60,6 @@ Plynte Labs construye herramientas de productividad de alto rendimiento e infrae
 
 ### Learn and contribute
 
-Start with the repository that matches your interest, read its README, and open a focused issue or pull request. If you are unsure, open a question with context and the maintainers will route it.
+Start with the repository that matches your interest, read its README, and open a focused issue or pull request. If you are unsure, open a question with context and the maintainers will route it, i think.
 
-Comienza por el repositorio que coincida con tu inter?s, lee su README y abre un issue o pull request enfocado. Si no tienes seguridad sobre d?nde empezar, abre una pregunta con contexto y el equipo de mantenimiento la orientar?.
+Comienza por el repositorio que coincida con tu interés, lee su README y abre un issue o pull request enfocado. Si no tienes seguridad sobre dónde empezar, abre una pregunta con contexto y el equipo de mantenimiento la orientará, eso pienso.
