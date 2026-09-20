@@ -10,15 +10,16 @@ Plynte Labs builds high-performance productivity tools and local AI audio infras
 
 Plynte Labs construye herramientas de productividad de alto rendimiento e infraestructura de audio local impulsada por IA para artistas, streamers y builders. El foco es simple: software útil, cercano al usuario, sin dependencia innecesaria de la nube y suficientemente claro para que otros puedan aprender de él.
 
-### Brick-draw
+### Opencohost
 
 | Project | Status | What it does |
 |---------|--------|--------------|
-| [Brick Draw](https://github.com/plynte-labs/brick-draw) | Live | Lightweight desktop drawing canvas for creative workflows. |
+| [OpenCohost](https://github.com/plynte-labs/OpenCohost) | Live | Local voice assistant infrastructure for streamer workflows. |
 
-<img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/63bcb644-1bc4-4d55-b832-e635efb71bb8" />
-
-> Franguh: Yes I draw this LOL, I forgot how much I enjoyed drawing.
+#### Opencohost Tauri UI (Stable - **In Development**)
+<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/7dab5fd7-6577-46c0-8b65-878300817c14" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/9d250713-60a9-4d80-92b9-c05c3c2be89c" />
+<img width="1903" height="980" alt="image" src="https://github.com/user-attachments/assets/a1e3e701-5f9b-4d63-bae1-d7ada22e3a2d" />
 
 ### LiveAudio
 
@@ -28,19 +29,15 @@ Plynte Labs construye herramientas de productividad de alto rendimiento e infrae
 
 <img width="988" height="617" alt="image" src="https://github.com/user-attachments/assets/3be35afc-68ed-404d-947d-661e1ac2afee" />
 
-### Opencohost
+### Brick-draw
 
 | Project | Status | What it does |
 |---------|--------|--------------|
-| [OpenCohost](https://github.com/plynte-labs/OpenCohost) | Live | Local voice assistant infrastructure for streamer workflows. |
+| [Brick Draw](https://github.com/plynte-labs/brick-draw) | Live | Lightweight desktop drawing canvas for creative workflows. |
 
-#### Opencohost CustomTkinter UI (Legacy | deprecated - **Finished Development, published...**)
-<img width="1916" height="987" alt="image" src="https://github.com/user-attachments/assets/9acbb30a-2e76-4006-9afb-41b496ac4483" />
+<img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/63bcb644-1bc4-4d55-b832-e635efb71bb8" />
 
-#### Opencohost Tauri UI (Stable - **In Development**)
-<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/7dab5fd7-6577-46c0-8b65-878300817c14" />
-<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/9d250713-60a9-4d80-92b9-c05c3c2be89c" />
-<img width="1903" height="980" alt="image" src="https://github.com/user-attachments/assets/a1e3e701-5f9b-4d63-bae1-d7ada22e3a2d" />
+> Franguh: Yes I draw this LOL, I forgot how much I enjoyed drawing.
 
 
 ## Engineering baseline
